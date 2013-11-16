@@ -23,7 +23,7 @@ do
 done
 
 # clone from wpro git repo
-git clone https://github.com/webngay/wpro -b custom-datastor
+git clone https://github.com/webngay/wpro -b custom-datastore
 
 # back to root dir
 cd "$( dirname "${BASH_SOURCE[0]}" )"
